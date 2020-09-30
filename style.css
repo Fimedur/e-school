@@ -1,0 +1,111 @@
+.container{
+    background: #F0FFF0;
+    margin-bottom: 100px;
+    
+}
+#SingInBtn{
+    width: 104px;
+    height: 43px;
+    left: 1201px;
+    top: 25px;
+    background: #21B573;
+    border-radius: 33px;
+}
+.nav-item{
+    padding-right: 30px;
+}
+.navbar-brand{
+    width: 198.07px;
+    height: 59px;
+}
+.p1{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px; 
+    color: #FD511A;
+}
+h1{
+width: 405px;
+height: 140px;
+left: 205px;
+top: 212px;
+
+font-family: Poppins;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 70px;
+}
+.p2{
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 36px;
+    color: #6C6B6B;
+}
+#getStartBtn{
+    width: 153px;
+    height: 43px;
+    left: 205px;
+    top: 470px;
+    
+    background: #21B573;
+    border-radius: 33px;
+    
+}
+.cat1{
+    padding: 20%;
+    text-align: center;
+    width: 270px;
+    height: 270px;
+    left: 1035px;
+    top: 618px;
+    
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+
+.IconImage{
+width: 68px;
+height: 76px;
+
+}
+.Books{
+    background-color: white;
+}
+
+h2{
+    text-align:center;
+    font-family: Poppins ;
+}
+.card{
+  padding: 10px;
+  width: 370px;
+  height: 483px;
+  background: #FFFFFF;
+  box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+  border-radius: 18px;
+}
+#CoursesBuy{
+width: 137px;
+height: 35px;
+background: #21B573;
+border-radius: 33px;
+
+}
+.Man{
+    width: 120px;
+    height: 120px;
+}
+.Blog
+{
+padding: 25px;
+width: 1440px;
+height: 369px;
+left: 0px;
+top: 2013px;
+background: #282531;
+}
